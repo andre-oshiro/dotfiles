@@ -1,0 +1,25 @@
+[user]
+  name = oosha
+  email = oosha.github@gmail.com
+[color]
+  ui = auto
+[core]
+  quotepath = false
+[alias]
+  ba = branch -a
+  br = branch
+  cm = commit
+  co = checkout
+  fp = fetch -p
+  ft = fetch
+  pp = pull -p
+  sh = show
+  st = status
+  stt = status -uno
+  lg = log --color --graph --pretty=format:'%C(bold red)%h%Creset -%C(bold green)%d%Creset %s %C(bold green)(%cr)%Creset %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+[merge]
+  ff = false
+[pull]
+  ff = only
+[rebase]
+  autosquash = true
