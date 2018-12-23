@@ -45,7 +45,7 @@
     ln -s $HOME/repos/$USER/dotfiles/_vimrc $HOME/.vimrc
 
 # iTerm2 scheme
-    ln -s $HOME/repos/$USER/dotfiles/_iterm2.plist $HOME/.iterm2.plist
+    ln -s $HOME/repos/$USER/dotfiles/_iterm2.plist $HOME/iterm2/iterm2.plist
 
 # git
     ### .gitconfig シンボリックリンクを作成
