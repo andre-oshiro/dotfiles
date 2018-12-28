@@ -15,7 +15,7 @@ brew cask install iterm2
 brew cask install coteditor
 brew cask install visual-studio-code
 brew cask install google-cloud-sdk
-brew cask install boostnote
+brew cask install karabiner
 brew cask install slack
 
 exit 0
