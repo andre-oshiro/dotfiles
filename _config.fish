@@ -14,4 +14,4 @@ export PATH=/Users/oosha/.nodebrew/current/bin:/usr/local/bin:/usr/bin:/bin:/usr
 export JAVA_HOME=(/usr/libexec/java_home -v 1.8)
 
 ## ANDROID_HOME_EXPORT
-export ANDROID_HOME=/Users/oosha/Library/Android/sdk
+export ANDROID_HOME=/usr/local/share/android-sdk
