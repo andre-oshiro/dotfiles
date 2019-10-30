@@ -11,7 +11,7 @@ eval (direnv hook fish)
 export PATH=/Users/oosha/.nodebrew/current/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 
 ## JAVA_HOME_EXPORT
-export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
+export JAVA_HOME=(/usr/libexec/java_home -v 1.8)
 
 ## ANDROID_HOME_EXPORT
 export ANDROID_HOME=/usr/local/share/android-sdk
