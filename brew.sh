@@ -4,18 +4,23 @@ brew install fish
 brew install tree
 brew install curl
 brew install wget
-brew install git
-brew install git-flow
 brew install direnv
+brew install git
+brew install peco
+brew install ghq
+brew install colordiff
+brew install jq 
+brew install fzf
+brew install tig
 
-brew tap caskroom/cask
-brew cask install google-chrome
-brew cask install google-japanese-ime
-brew cask install iterm2
-brew cask install coteditor
-brew cask install visual-studio-code
-brew cask install google-cloud-sdk
-brew cask install karabiner
-brew cask install slack
+brew install nodebrew
+mkdir -p $HOME/.nodebrew/src
+
+brew install --cask google-chrome
+brew install --cask google-japanese-ime
+brew install --cask iterm2
+brew install --cask visual-studio-code
+brew install --cask karabiner-elements
+brew install --cask slack
 
 exit 0

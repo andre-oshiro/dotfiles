@@ -1,79 +1,90 @@
 #!/bin/bash -eu
 
-# brew install
-    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-    sh ./brew.sh
+if which brew; then
+    brew --version
+else
+    echo "********************************************************************"
+    echo "Install homebrew"
+    echo "********************************************************************"
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+fi
 
-# fish
-    readonly SHELL_LIST="/etc/shells"
-    readonly SHELL_FISH="/usr/local/bin/fish"
+echo "********************************************************************"
+echo "Excecute brew.sh."
+echo "********************************************************************"
+sh ./brew.sh
 
-    ### 追加されていない場合、末尾に /usr/local/bin/fish を追加
-    isNeedAddShell=true
-    while read LINE; do
-        if [ "$LINE" = "$SHELL_FISH" ]; then
-            echo "fish は追加済み"
-            isNeedAddShell=false
-        fi
-    done < $SHELL_LIST
-
-    if $isNeedAddShell; then
-        echo "fish を追加"
-        echo $SHELL_FISH | sudo tee -a $SHELL_LIST
+readonly SHELL_LIST="/etc/shells"
+readonly SHELL_FISH="/usr/local/bin/fish"
+hasFish=true
+while read LINE; do
+    if [ "$LINE" = "$SHELL_FISH" ]; then
+        echo "********************************************************************"
+        echo "fish is already added."
+        echo "********************************************************************"
+        hasFish=false
     fi
+done < $SHELL_LIST
 
-    ### デフォルトシェルを fish に変更
-    if [ "$SHELL" != "$SHELL_FISH" ]; then
-        echo "デフォルトシェルを fish に変更"
-        chsh -s $SHELL_FISH
-    fi
+if $hasFish; then
+    echo "********************************************************************"
+    echo "Adding fish."
+    echo "********************************************************************"
+    echo $SHELL_FISH | sudo tee -a $SHELL_LIST
+fi
 
-    ### oh-my-fish インストール
-    curl -L http://get.oh-my.fish | fish
+if [ "$SHELL" != "$SHELL_FISH" ]; then
+    echo "********************************************************************"
+    echo "Change default shell to fish."
+    echo "********************************************************************"
+    chsh -s $SHELL_FISH
+fi
 
-    ### bobthefish インストール
-    omf install bobthefish
+echo "********************************************************************"
+echo "Install powerline font."
+echo "********************************************************************"
+git clone https://github.com/powerline/fonts.git --depth=1 $HOME/repos/fonts/powerline/fonts
+sh $HOME/repos/fonts/powerline/fonts/install.sh
 
-    ### powerline_fonts インストール
-    git clone https://github.com/powerline/fonts.git --depth=1 $HOME/repos/$USER/fonts/powerline/fonts
-    sh $HOME/repos/$USER/fonts/powerline/fonts/install.sh
+echo "********************************************************************"
+echo "Create symbolyc links."
+echo "********************************************************************"
+mkdir $HOME/iterm2
+ln -s $HOME/repos/dotfiles/config.fish $HOME/.config/fish/config.fish
+ln -s $HOME/repos/dotfiles/.vimrc $HOME/.vimrc
+ln -s $HOME/repos/dotfiles/.iterm2.plist $HOME/iterm2/com.googlecode.iterm2.plist
+ln -s $HOME/repos/dotfiles/.gitconfig $HOME/.gitconfig
 
-    ### config.fish シンボリックリンクを作成
-    ln -s $HOME/repos/$USER/dotfiles/_config.fish $HOME/.config/fish/config.fish
+echo "********************************************************************"
+echo "Install oh-my-fish."
+echo "********************************************************************"
+curl -L http://get.oh-my.fish | fish
+omf install bobthefish
 
-# Vim
-    ### .vimrc シンボリックリンクを作成
-    ln -s $HOME/repos/$USER/dotfiles/_vimrc $HOME/.vimrc
+echo "********************************************************************"
+echo "Install stable node version."
+echo "********************************************************************"
+nodebrew install stable
+nodebrew use stable
 
-# iTerm2 scheme
-    ln -s $HOME/repos/$USER/dotfiles/_iterm2.plist $HOME/iterm2/iterm2.plist
+echo "********************************************************************"
+echo "Install VScode Extensions."
+echo "********************************************************************"
+code --install-extension DavidAnson.vscode-markdownlint
+code --install-extension bierner.markdown-preview-github-styles
+code --install-extension bierner.markdown-checkbox
+code --install-extension mdickin.markdown-shortcuts
+code --install-extension eamodio.gitlens
+code --install-extension angular.ng-template
+code --install-extension arjun.swagger-viewer
+code --install-extension ritwickdey.liveserver
+code --install-extension equinusocio.vsc-material-theme
+code --install-extension isayme.vscode-prettier-standard
+code --install-extension hookyqr.beautify
+code --install-extension sidthesloth.html5-boilerplate
+code --install-extension dbaeumer.vscode-eslint
 
-# git
-    ### .gitconfig シンボリックリンクを作成
-    ln -s $HOME/repos/$USER/dotfiles/_gitconfig $HOME/.gitconfig
-
-# nodebrew
-    ### nodebrew インストール
-    curl -L git.io/nodebrew | perl - setup
-    nodebrew install stable
-    nodebrew use stable
-
-# vscode
-    ### 拡張機能インストール
-    code --install-extension DavidAnson.vscode-markdownlint
-    code --install-extension bierner.markdown-preview-github-styles
-    code --install-extension bierner.markdown-checkbox
-    code --install-extension mdickin.markdown-shortcuts
-    code --install-extension eamodio.gitlens
-    code --install-extension angular.ng-template
-    code --install-extension arjun.swagger-viewer
-    code --install-extension ritwickdey.liveserver
-    code --install-extension equinusocio.vsc-material-theme
-    code --install-extension isayme.vscode-prettier-standard
-    code --install-extension hookyqr.beautify
-    code --install-extension sidthesloth.html5-boilerplate
-
-
-# exit
-    echo "完了"
-    exit 0
+echo "********************************************************************"
+echo "Done"
+echo "********************************************************************"
+exit 0
