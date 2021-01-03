@@ -1,21 +1,22 @@
 #!/bin/bash -eux
 
-brew install fish
+echo "********************************************************************"
+echo "brew.sh"
+echo "********************************************************************"
+
+brew install zsh
 brew install tree
 brew install curl
 brew install wget
 brew install direnv
-brew install git
 brew install peco
 brew install ghq
 brew install colordiff
 brew install jq 
 brew install fzf
 brew install tig
-
+brew install lf
 brew install nodebrew
-mkdir -p $HOME/.nodebrew/src
-
 brew install --cask google-chrome
 brew install --cask google-japanese-ime
 brew install --cask iterm2

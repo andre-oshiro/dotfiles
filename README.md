@@ -1,26 +1,18 @@
 # dotfiles
 
-## 使い方メモ
+## How to use
 
-### ステップ１
+- 前提条件
+  - Homebrewインストール済み
+  - Gitインストール済み
 
-- **git cloneして `setup.sh` を実行**
+### Steps
 
-```shell
-$ git clone git@github.com:andre-oshiro/dotfiles.git ${ directory }
-$ cd ${ directory }/dotfiles
-$ sh ./setup.sh
-    .
-    .
- ~ 省略 ~
-    .
-    .
-完了
-$
-```
-
-### ステップ２
-
-- **iTerm2 のフォントを変更**
-  - **iTerm2 → Preferences... → Profiles → Text → Change Font**
-    - FontFamily: `Noto Moto for Powerline`
+- リポジトリをclone
+  - `git clone git@github.com:andre-oshiro/dotfiles.git`
+- `setup.sh`を実行
+- `setup.sh`が正常終了したら、iTerm2を起動
+  - iTerm2 のフォントを変更
+    - Preferences ⇨ Profiles ⇨ Text
+  - `com.googlecode.iterm2.plist` preferenceをロード
+    - Preferences ⇨ General ⇨ Preferences
