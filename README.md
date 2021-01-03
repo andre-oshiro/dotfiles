@@ -12,7 +12,7 @@
   - `git clone git@github.com:andre-oshiro/dotfiles.git`
 - `setup.sh`を実行
 - `setup.sh`が正常終了したら、iTerm2を起動
-  - iTerm2 のフォントを変更
+  - iTerm2 のフォントをPowerlineに変更
     - Preferences ⇨ Profiles ⇨ Text
   - `com.googlecode.iterm2.plist` preferenceをロード
     - Preferences ⇨ General ⇨ Preferences
