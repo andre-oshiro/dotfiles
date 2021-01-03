@@ -11,6 +11,9 @@ sh ./scripts/setup-font.sh
 ## Download Plugins
 sh ./scripts/setup-plugins.sh
 
+## Download Themes
+sh ./scripts/setup-themes.sh
+
 ## Setup Symlinks
 sh ./scripts/setup-symlinks.sh
 
