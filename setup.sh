@@ -1,13 +1,16 @@
 #!/bin/bash -eu
 
+## Make directories
+sh ./scripts/mkdirs.sh
+
 ## Install Apps
 sh ./scripts/brew.sh
 
 ## Download Powerline font
 sh ./scripts/setup-font.sh
 
-## Create Files
-sh ./scripts/setup-files.sh
+## Setup Symlinks
+sh ./scripts/setup-symlinks.sh
 
 ## Setup NodeJS
 sh ./scripts/setup-nodebrew.sh
