@@ -1,7 +1,6 @@
 #!/bin/bash -eu
 
-## Make directories
-sh ./scripts/mkdirs.sh
+mkdir $HOME/iterm2
 
 ## Install Apps
 sh ./scripts/brew.sh
