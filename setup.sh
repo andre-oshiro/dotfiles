@@ -1,18 +1,18 @@
 #!/bin/bash -eu
 
 ## Install Apps
-sh ./brew.sh
+sh ./scripts/brew.sh
 
 ## Download Powerline font
-sh ./setup-font.sh
+sh ./scripts/setup-font.sh
 
 ## Create Files
-sh ./setup-files.sh
+sh ./scripts/setup-files.sh
 
 ## Setup NodeJS
-sh ./setup-nodebrew.sh
+sh ./scripts/setup-nodebrew.sh
 
 ## Set VScode extensions
-sh ./setup-vscode.sh
+sh ./scripts/setup-vscode.sh
 
 exit 0
