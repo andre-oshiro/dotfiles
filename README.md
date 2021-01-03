@@ -8,7 +8,7 @@
 
 ### Steps
 
-- リポジトリをclone
+- リポジトリを`~/repos`直下にclone
   - `git clone git@github.com:andre-oshiro/dotfiles.git`
 - `setup.sh`を実行
 - `setup.sh`が正常終了したら、iTerm2を起動
