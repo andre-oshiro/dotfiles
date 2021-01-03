@@ -45,3 +45,9 @@ source /Users/andresoshiro/zsh-repos/themes/agnoster/agnoster.zsh-theme
 ## plugins ##
 source /Users/andresoshiro/zsh-repos/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 ## plugins ##
+
+prompt_context() {
+  if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
+    prompt_segment black default "%(!.%{%F{yellow}%}.)$USER"
+  fi
+}
