@@ -1079,7 +1079,7 @@
 			<key>Window Type</key>
 			<integer>1</integer>
 			<key>Working Directory</key>
-			<string>/Users/andresoshiro</string>
+			<string>/Users/andres.oshiro</string>
 		</dict>
 	</array>
 	<key>NoSyncHaveRequestedFullDiskAccess</key>
@@ -1142,7 +1142,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/andresoshiro/iterm2</string>
+	<string>/Users/andres.oshiro/iterm2</string>
 	<key>Print In Black And White</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -1971,7 +1971,7 @@
 													<key>Window Type</key>
 													<integer>1</integer>
 													<key>Working Directory</key>
-													<string>/Users/andresoshiro</string>
+													<string>/Users/andres.oshiro</string>
 												</dict>
 												<key>Bookmark Name</key>
 												<string>oosha</string>
@@ -1981,111 +1981,111 @@
 												<array/>
 												<key>Directories</key>
 												<array>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
 												</array>
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/andresoshiro</string>
+													<string>/Users/andres.oshiro</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -2114,7 +2114,7 @@
 													<string>$$</string>
 												</dict>
 												<key>Working Directory</key>
-												<string>/Users/andresoshiro</string>
+												<string>/Users/andres.oshiro</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -2874,7 +2874,7 @@
 													<key>Window Type</key>
 													<integer>1</integer>
 													<key>Working Directory</key>
-													<string>/Users/andresoshiro</string>
+													<string>/Users/andres.oshiro</string>
 												</dict>
 												<key>Bookmark Name</key>
 												<string>oosha</string>
@@ -2884,35 +2884,35 @@
 												<array/>
 												<key>Directories</key>
 												<array>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro/repositories/topgate/jtb/jtb-agent-account-system</string>
-													<string>/Users/andresoshiro/repositories/topgate/jtb/jtb-agent-account-system</string>
-													<string>/Users/andresoshiro/repositories/topgate/jtb/jtb-agent-account-system</string>
-													<string>/Users/andresoshiro/repositories/topgate/jtb/jtb-agent-account-system</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro/repositories/topgate/jtb/jtb-agent-account-system</string>
+													<string>/Users/andres.oshiro/repositories/topgate/jtb/jtb-agent-account-system</string>
+													<string>/Users/andres.oshiro/repositories/topgate/jtb/jtb-agent-account-system</string>
+													<string>/Users/andres.oshiro/repositories/topgate/jtb/jtb-agent-account-system</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
 												</array>
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/andresoshiro</string>
+													<string>/Users/andres.oshiro</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -2938,7 +2938,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/andresoshiro</string>
+												<string>/Users/andres.oshiro</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -3718,7 +3718,7 @@
 													<key>Window Type</key>
 													<integer>1</integer>
 													<key>Working Directory</key>
-													<string>/Users/andresoshiro</string>
+													<string>/Users/andres.oshiro</string>
 												</dict>
 												<key>Bookmark Name</key>
 												<string>oosha</string>
@@ -3728,63 +3728,63 @@
 												<array/>
 												<key>Directories</key>
 												<array>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
 												</array>
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/andresoshiro</string>
+													<string>/Users/andres.oshiro</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -3810,7 +3810,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/andresoshiro</string>
+												<string>/Users/andres.oshiro</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -4570,7 +4570,7 @@
 													<key>Window Type</key>
 													<integer>1</integer>
 													<key>Working Directory</key>
-													<string>/Users/andresoshiro</string>
+													<string>/Users/andres.oshiro</string>
 												</dict>
 												<key>Bookmark Name</key>
 												<string>oosha</string>
@@ -4580,60 +4580,60 @@
 												<array/>
 												<key>Directories</key>
 												<array>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
-													<string>/Users/andresoshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
+													<string>/Users/andres.oshiro</string>
 												</array>
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/andresoshiro</string>
+													<string>/Users/andres.oshiro</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -4659,7 +4659,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/andresoshiro</string>
+												<string>/Users/andres.oshiro</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>

@@ -39,11 +39,11 @@ export PATH=$HOME/.nodebrew/current/bin:$PATH
 
 ## theme ##
 setopt prompt_subst
-source /Users/andresoshiro/zsh-repos/themes/agnoster/agnoster.zsh-theme
+source /Users/andres.oshiro/zsh-repos/themes/agnoster/agnoster.zsh-theme
 ## theme ##
 
 ## plugins ##
-source /Users/andresoshiro/zsh-repos/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /Users/andres.oshiro/zsh-repos/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 ## plugins ##
 
 prompt_context() {
