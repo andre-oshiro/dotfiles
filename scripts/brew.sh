@@ -5,7 +5,6 @@ echo "brew.sh"
 echo "********************************************************************"
 brew install zsh
 brew install tree
-brew install curl
 brew install wget
 brew install direnv
 brew install peco
@@ -16,6 +15,7 @@ brew install fzf
 brew install tig
 brew install lf
 brew install nodebrew
+brew install neofetch
 brew install --cask google-chrome
 brew install --cask google-japanese-ime
 brew install --cask iterm2
