@@ -9,6 +9,9 @@ sh ./scripts/brew.sh
 ## Download Powerline font
 sh ./scripts/setup-font.sh
 
+## Download Plugins
+sh ./scripts/setup-plugins.sh
+
 ## Setup Symlinks
 sh ./scripts/setup-symlinks.sh
 
