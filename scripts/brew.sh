@@ -20,7 +20,6 @@ brew install --cask google-chrome
 brew install --cask google-japanese-ime
 brew install --cask iterm2
 brew install --cask visual-studio-code
-brew install --cask karabiner-elements
 brew install --cask slack
 
 exit 0
